@@ -8,3 +8,7 @@
 #2 - run revip.py  : 
 
 <sub>python3 revip.py</sub>
+
+
+
+[https://github.com/dracula1337/reverse_ip_to_url/blob/main/Screenshot%20at%202022-05-31%2021-10-42.png]
